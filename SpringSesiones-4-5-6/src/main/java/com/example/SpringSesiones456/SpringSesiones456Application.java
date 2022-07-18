@@ -22,6 +22,8 @@ public class SpringSesiones456Application {
 
 		repository.save(laptop1);
 		repository.save(laptop2);
+
+		//
 	}
 
 }
